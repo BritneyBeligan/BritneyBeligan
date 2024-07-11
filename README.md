@@ -12,9 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BritneyBeligan&theme=calm&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BritneyBeligan&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Tech Achievement
-![Java].(https://app.powerbi.com/view?r=eyJrIjoiNDgwMTRjMTMtZDk1OC00NDQ5LWJlYmYtYjYxNzhlMjYxZmFhIiwidCI6IjZiNWJkMGMxLWQxMjktNDIyYy05ZDE3LWVkY2ViNDkyMWI3MiIsImMiOjEwfQ%3D%3D)
-
+## Tech Achievement
+[![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BriyiBeligan](https://app.powerbi.com/view?r=eyJrIjoiNDgwMTRjMTMtZDk1OC00NDQ5LWJlYmYtYjYxNzhlMjYxZmFhIiwidCI6IjZiNWJkMGMxLWQxMjktNDIyYy05ZDE3LWVkY2ViNDkyMWI3MiIsImMiOjEwfQ%3D%3D)) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BritneyBeligan&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
