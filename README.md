@@ -14,9 +14,12 @@
 
 ## Tech Achievement
 
-[![SNACK FOOD SALES](https://app.powerbi.com/view?r=eyJrIjoiMTA1ZWZkMTctZGQ4My00Y2RjLThhNDktYTc4ZTIwODAxNGI3IiwidCI6IjZiNWJkMGMxLWQxMjktNDIyYy05ZDE3LWVkY2ViNDkyMWI3MiIsImMiOjEwfQ%3D%3D) 
+https://app.powerbi.com/view?r=eyJrIjoiNDgwMTRjMTMtZDk1OC00NDQ5LWJlYmYtYjYxNzhlMjYxZmFhIiwidCI6IjZiNWJkMGMxLWQxMjktNDIyYy05ZDE3LWVkY2ViNDkyMWI3MiIsImMiOjEwfQ%3D%3D
 
-[![SNACK FOOD SALES]([https://app.powerbi.com/view?r=eyJrIjoiMTA1ZWZkMTctZGQ4My00Y2RjLThhNDktYTc4ZTIwODAxNGI3IiwidCI6IjZiNWJkMGMxLWQxMjktNDIyYy05ZDE3LWVkY2ViNDkyMWI3MiIsImMiOjEwfQ%3D%3D](https://app.powerbi.com/view?r=eyJrIjoiNDgwMTRjMTMtZDk1OC00NDQ5LWJlYmYtYjYxNzhlMjYxZmFhIiwidCI6IjZiNWJkMGMxLWQxMjktNDIyYy05ZDE3LWVkY2ViNDkyMWI3MiIsImMiOjEwfQ%3D%3D)) 
+https://app.powerbi.com/view?r=eyJrIjoiMTA1ZWZkMTctZGQ4My00Y2RjLThhNDktYTc4ZTIwODAxNGI3IiwidCI6IjZiNWJkMGMxLWQxMjktNDIyYy05ZDE3LWVkY2ViNDkyMWI3MiIsImMiOjEwfQ%3D%3D
+
+https://app.powerbi.com/view?r=eyJrIjoiMWY5ZGVkODgtY2QxMS00YzBkLWEyNDktOTQ3ZWE4ZmE0ODJkIiwidCI6IjZiNWJkMGMxLWQxMjktNDIyYy05ZDE3LWVkY2ViNDkyMWI3MiIsImMiOjEwfQ%3D%3D
+
 
 
 ## 🏆 GitHub Trophies
