@@ -1,10 +1,6 @@
 # 💫 About Me:
 🔭Hello there! I am Britney, and I am currently a college student pursuing a Bachelor of Science in Computer Science! <br>     I am currently enrolled at New Era University, I am enthusiastic about learning the ins and outs of this dynamic field <br>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BriyiBeligan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/strawbriyi) 
-
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 # 📊 GitHub Stats:
